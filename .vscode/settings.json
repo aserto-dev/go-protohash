@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "bufbuild",
+        "deps",
+        "gertd",
+        "golangci",
+        "gotest",
+        "gotestsum",
+        "Nanos",
+        "oneof",
+        "protobuf",
+        "protobufs",
+        "protoc",
+        "protohash",
+        "protos",
+        "sfixed32",
+        "sfixed64",
+        "sint32",
+        "sint64",
+        "timestamppb",
+        "unmarshaled"
+    ]
+}

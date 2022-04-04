@@ -1,0 +1,6 @@
+.DS_Store
+cover.out
+# exclude personal developer files
+/.dev/
+# exclude tmp folder with external depdencies install by mage deps
+/.ext/
